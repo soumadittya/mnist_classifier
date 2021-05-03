@@ -31,7 +31,7 @@ There are two jupyter notebooks:
   There are two folders in the root directory:
   
   1. data_own:
-        This folder contains some sample images other than the MNIST dataset images for tesing purpose.
+        This folder contains random handwritten digit images.
         
   2. model:
         This folder contains the trained model.

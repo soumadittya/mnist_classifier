@@ -1,5 +1,5 @@
 # mnist_classifier
-In this project handwritten digit classification has been using Convolutional Neural Networks and the model has been trained on MNIST handwritten digit dataset.
+In this project handwritten digit classification has been done using Convolutional Neural Networks and the model has been trained on MNIST handwritten digit dataset.
 The dataset has been directly taken from the the keras built in datasets.
 
 Libraries and frameworks used:

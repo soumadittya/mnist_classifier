@@ -26,4 +26,8 @@ There are two jupyter notebooks:
         - Then the image is passed to the model for predictions using the command ('cnn.predict(<image>)')
         - Then the function prints the predicted digit.
         - The image which has been given to the function is displayed using matplotlib library.
-        
+   
+  
+  There are two folders in the root directory:
+  
+  1. data_own: 
